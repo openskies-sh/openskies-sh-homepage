@@ -285,13 +285,13 @@ ul {
 }
 
 
-.services {
+.services, .products {
   width: 90%;
   margin: 0 auto;
   margin-top: 10%;
 }
 
-.services-box {
+.services-box, .products-box {
   min-height: 250px;
 
 }
